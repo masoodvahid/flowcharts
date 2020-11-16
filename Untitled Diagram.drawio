@@ -1,1 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T08:21:40.994Z" agent="5.0 (Windows)" version="13.9.8" etag="lYbeMdsE_56ERVrjkJpj" type="github"><diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">7Zxdk+IoFIZ/jZdt5dvkcuzp6bmYqepat2ovt1AxZicGi2Cr++uXGMi3im4i0NPeqASBPOdweE+ge2Q/bw6vGGzXP9ESxiPLWB5G9teRZZmO7dC3rOSYlzhBkBeEOFqySmXBLPoXskKDle6iJUxrFQlCMYm29cIFShK4ILUygDHa16utUFzvdQtC2CqYLUDcLv0rWpJ1Xuq7Rln+HUbhmvdsGuzKHCx+hRjtEtbfyLJXp1d+eQN4W6x+ugZLtK8U2S8j+xkjRPJPm8MzjDO2HFv+u29nrhbjxjAhIj+YAN9ZwPnCXMKV5zpPrIF3EO8gv4PTOMmRs6FD3mYfN4cwM/54vt0kY1Y4XZNNTK+Z9OM7xCSiSH+AOYzfUBqRCCX02hwRgja0QpxdmBbAnlGM8KkLjqxs40schdlvCdrS0i3E0QYSmNWmt0OdAr6VRVO0I3GUZENMCUiWANN7nabHzRxlQwthAjGgn6ZtVvzuaa/wUCli7F4hon3gI63Crloes+ORf3fz7/vSa7jTrCsOw8sA89OwaLm0Ff3AzCVmOqtluj9B+uus+eCBjmV6Ig+XzGQV6+3XEYGzLVhkdffU0P0As5vAOIkKMNPqIOYPQMzWgZhrK0TMuSE8wDQ9RdlOMBVuPTByjDojc9Kehk4HInsARK6aiNyJOog8cURreABhtmxcQ1RdE9iPqmtCHwQbocvuIOg9KNZPrhOssOEwt/Eu7WRxzkDCbIyxW/eudohy2mR4GYYxINF7XXt14WL9v6GIjrzonNNgfT/xZnkLaLVKIWnhLu7iLgv4Oq4dTofLPmztCG4IjEpIS7xGm/kurYaRmrwPAYF7cKwpzgRlb6XapOYDcQzj130/FvWC+kRzgrYaeJTgNNuKc7abP71htKAL26WA1OXu9bnRA6pgopBwMttas9eIXdjiM2Sft0Fbvf4BFzC7C9m+OvFV8lUBCdvhq6WaFXBXR5hQhUAXgJ4csu6Pk0d4Y1sFKxM5jcYiI1M2mAJat1M3ELpq479TAjC5/syogjhuiAqc35+IpgBMS8RwRcTmwc1Kux2m7QtZ2/8N02ZjjWjYd5iJ0ZbWqkwMswhBPFBInRn3KmotZoZ/s3E+/MzgjqWggDENV6GZUYx/OAVT2OL3VTAcqqr5X0PFyPXIgfO/whaf+d95G9yye/H5BOqsBnLVeQRl3bCVoIZJL+5Xw2S4rWrTDoym3cZG9eXJM+MtOd4DN838htyXuWlmtdMiJRiZhqkQpHZKpJIk8RpbiJ4rUZLY7WyiX0kS3Irn95Mk9i3nrR44qSfG9WzuUXPabqcZSjAyjcaC6gcSIQnkF1IgNU/ISYWk6PGlwHHVYaTo+aUmI1cmI6+FBC5DOGNfESZrFKIExC9laUVMGHU4/0BCjuwINNgRlGUERQs/UJZBXIaYoh1ewO6h8sPTAIfw3DqdV8nu4KIhhNfXu7FOZGClOdeX7MT4qEidacm3KBv1qcm7sDs6Yfc/DHb3OnZbGeyBNkHE0ggrXwM0wGoKRAlTmTDhmDLADhIm+OOmi+AdZcC3BZi24H2tPN7WJ5QIhGird4/ufpBi0vxlHFReZw4T8RbzMbNGSmtR7wPHSrVtViG92G3jDF1gNKyfN9nXsxvH0cc9PBnucfe8c/UBKxDQFAKrT95qiWRQnjJgpWSud4G1r3NVB6uUzPQurAIB1lcGqz6Zp0B4DVTB6uqTeQbXsfaf/9yl6ibWY0WdKyXLHcqIljqT4+MksXzPVhPwt2wMKnFCSsVDb37jD2k9/reFEg5Lufrkna6A2uT+KHmh8RunGn12wH+whUafJFfEimbvSUMvVnSHtqKUjHqYZU1g86x/K98dBPVJDS0BoeYqs3/m6pMc8pXj4upiqALWk5IeDhMqRB7O9b6s3w3+42xc2np5vJT9s2HAi0ggZR7wefpkCNxblQBLv5b/eTNXh+W/N7Vf/gM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T10:16:32.990Z" agent="5.0 (Windows)" etag="zcNOX7Y4Y0ii3M2hH2a-" version="13.9.8" type="github">
+  <diagram name="WholeSchema" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
+    <mxGraphModel dx="2076" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h-DDgrCBXshV51UqQrQX-56" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-23" target="h-DDgrCBXshV51UqQrQX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-57" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-23" target="h-DDgrCBXshV51UqQrQX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-58" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-23" target="h-DDgrCBXshV51UqQrQX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-59" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-23" target="h-DDgrCBXshV51UqQrQX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-23" value="خدمات قابل ارائه" style="shape=ext;html=1;whiteSpace=wrap;fontFamily=Vazir;rounded=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="189" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-40" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-24" target="h-DDgrCBXshV51UqQrQX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-42" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-24" target="h-DDgrCBXshV51UqQrQX-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-24" value="واحد وب" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="359" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-26" value="واحد تجارت بین الملل" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-24" target="h-DDgrCBXshV51UqQrQX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-44" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-28" target="h-DDgrCBXshV51UqQrQX-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-28" value="واحد دیجیتال مارکتینگ" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="650" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-30" value="واحد عمران و معماری" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-33" value="طراحی سایت" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="310" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-97" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-39" target="h-DDgrCBXshV51UqQrQX-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-39" value="سامانه فیش حقوقی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="450" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-41" value="اسکریپت اختصاصی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="380" y="579" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-100" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-43" target="h-DDgrCBXshV51UqQrQX-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-106" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-43" target="h-DDgrCBXshV51UqQrQX-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-109" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-43" target="h-DDgrCBXshV51UqQrQX-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-43" value="تامین محتوا" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="820" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-45" value="مدیریت ایسنتاگرام" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-57.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-48" value="مدیریت لینکدین" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-129.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-50" value="مدیریت فیس بوک" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-199.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-52" value="مدیریت ئوئیتر" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;strokeColor=#10739e;fillColor=#007FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="15.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-70" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-190.5" width="20" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-110" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-71" target="h-DDgrCBXshV51UqQrQX-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-71" value="گوگل" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="980" y="199.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-72" value="گوگل ادز" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="198.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-79" value="گوگل شاپ" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="198.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-80" value="سئو محتوا" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="129.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-95" value="گوگل پیج رنک" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="269.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-114" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-98" target="h-DDgrCBXshV51UqQrQX-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="-61.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-98" value="شبکه های اجتماعی" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazir;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="980" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-78" value="گوگل آنالیتیکز" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="129.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-81" value="گوگل تگ منیجر" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="269.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="137.5" width="20" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-125" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#33001A;" edge="1" parent="1" source="h-DDgrCBXshV51UqQrQX-107" target="h-DDgrCBXshV51UqQrQX-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-107" value="تولید محتوا" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazir;strokeColor=#6F0000;fillColor=#FF9933;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="980" y="299.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-115" value="مدیریت واتساپ بیزینس" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-169.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-116" value="مدیریت شبکه‌های اجتماعی محلی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-92" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-118" value="چینی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-119" value="عربی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-120" value="فارسی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-121" value="روسی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-122" value="انگلیسی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-123" value="اسپانیایی" style="whiteSpace=wrap;html=1;fontFamily=Vazir;rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-DDgrCBXshV51UqQrQX-124" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="371" width="20" height="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
