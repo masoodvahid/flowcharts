@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T11:45:15.975Z" agent="5.0 (Windows)" version="13.10.4" etag="OcL9bMOOkjaAy01OT7Kb" type="github"><diagram id="NKLpOxADX2ups5b71Pup">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-28T12:15:51.118Z" agent="5.0 (Windows)" etag="MqFzk1_Zyx5ertEC5UvH" version="13.10.4" type="github">
+  <diagram id="NKLpOxADX2ups5b71Pup" name="Page-1">
+    <mxGraphModel dx="1038" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-1" target="ryfAsxcf8Ur_OC0rCeaj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-1" target="ryfAsxcf8Ur_OC0rCeaj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-1" target="ryfAsxcf8Ur_OC0rCeaj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-1" value="Laravel New" style="whiteSpace=wrap;html=1;direction=west;strokeColor=#3700CC;glass=1;rounded=1;arcSize=50;fontColor=#ffffff;fontFamily=Comic Sans MS;fontSize=15;fillColor=#330033;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-4" target="ryfAsxcf8Ur_OC0rCeaj-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-4" value="Livewire" style="whiteSpace=wrap;html=1;direction=west;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="185.5" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-7" target="ryfAsxcf8Ur_OC0rCeaj-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-7" value="Fortify" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="136" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-14" target="ryfAsxcf8Ur_OC0rCeaj-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-14" value="Verta" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="236.5" width="120" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryfAsxcf8Ur_OC0rCeaj-17" target="ryfAsxcf8Ur_OC0rCeaj-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-17" value="sanjabteam/baloot" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="288" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-27" value="NPM" style="whiteSpace=wrap;html=1;direction=west;fillColor=#0050ef;strokeColor=#001DBC;glass=1;rounded=1;arcSize=50;fontColor=#ffffff;fontFamily=Georgia;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-29" value="&lt;div&gt;Template&lt;/div&gt;" style="whiteSpace=wrap;html=1;direction=west;fillColor=#008a00;strokeColor=#005700;glass=1;rounded=1;arcSize=50;fontColor=#ffffff;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryfAsxcf8Ur_OC0rCeaj-31" value="Packges" style="whiteSpace=wrap;html=1;direction=west;glass=1;rounded=1;arcSize=50;fontFamily=Comic Sans MS;fontSize=15;strokeColor=#3700CC;fontColor=#ffffff;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
