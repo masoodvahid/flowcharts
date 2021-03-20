@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T06:33:40.523Z" agent="5.0 (Windows)" etag="sKRMLX0eYzOen7LD2l-0" version="14.4.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-20T15:22:48.516Z" agent="5.0 (Windows)" etag="C5OP2xMbboDZbS6w9qr6" version="14.4.9" type="github" pages="3">
   <diagram id="p5j1wUEil0Xq52mBIEXU" name="New App Requirments">
-    <mxGraphModel dx="1095" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="pFpU_-K4jWt_jsYd8WtE-0" />
         <mxCell id="pFpU_-K4jWt_jsYd8WtE-1" parent="pFpU_-K4jWt_jsYd8WtE-0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="yBCattU03A_dBwwN4reb-2" value="License&lt;br&gt;(date-user)" style="fillColor=#e1d5e7;whiteSpace=wrap;shape=cloud;html=1;strokeColor=#9673a6;fontSize=16;sketch=1;dashed=1;dashPattern=1 4;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="40" width="100" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="yBCattU03A_dBwwN4reb-3" value="User Log&lt;sub&gt;&lt;font face=&quot;Verdana&quot;&gt; &lt;/font&gt;&lt;/sub&gt;&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;&lt;sub&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Disable-enable&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="fillColor=#f5f5f5;whiteSpace=wrap;shape=cloud;html=1;strokeColor=#666666;fontSize=16;gradientColor=#b3b3b3;sketch=1;dashed=1;dashPattern=1 4;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
-          <mxGeometry x="210" y="185" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="yBCattU03A_dBwwN4reb-4" value="API &lt;br&gt;Support" style="fillColor=#d5e8d4;whiteSpace=wrap;shape=cloud;html=1;strokeColor=#82b366;fontSize=16;sketch=1;dashed=1;dashPattern=1 4;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="220" y="127.5" width="100" height="75" as="geometry" />
@@ -102,95 +99,104 @@
         <mxCell id="UgfPbcDi_1TXwU8vHOSm-19" value="Much easier development" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffff99;fontFamily=Comic Sans MS;sketch=1;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="1392.5" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-22" target="UgfPbcDi_1TXwU8vHOSm-27" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-22" target="UgfPbcDi_1TXwU8vHOSm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-22" value="&lt;a href=&quot;https://github.com/spatie/laravel-permission&quot;&gt;ACL&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-22" value="&lt;a href=&quot;https://github.com/spatie/laravel-permission&quot;&gt;ACL&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="370" y="460" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-27" target="UgfPbcDi_1TXwU8vHOSm-40" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-27" target="UgfPbcDi_1TXwU8vHOSm-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-27" value="&lt;a href=&quot;https://github.com/livewire/livewire&quot;&gt;Livewire&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-27" value="&lt;a href=&quot;https://github.com/livewire/livewire&quot;&gt;Livewire&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="230" y="460" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-34" target="UgfPbcDi_1TXwU8vHOSm-45" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-34" target="UgfPbcDi_1TXwU8vHOSm-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-34" value="&lt;a href=&quot;https://laravelarticle.com/laravel-log-reader&quot;&gt;Error Logs&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-34" value="&lt;a href=&quot;https://laravelarticle.com/laravel-log-reader&quot;&gt;Error Logs&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="560" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-40" target="UgfPbcDi_1TXwU8vHOSm-34" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-40" target="UgfPbcDi_1TXwU8vHOSm-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-40" value="&lt;a href=&quot;https://github.com/Maatwebsite/Laravel-Excel&quot;&gt;Excel&lt;br&gt;&lt;/a&gt;&lt;a href=&quot;https://7learn.com/programming/import-and-export-excel-and-csv-in-laravel&quot;&gt;راهنما&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/Maatwebsite/Laravel-Excel&quot;&gt;&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-40" value="&lt;a href=&quot;https://github.com/Maatwebsite/Laravel-Excel&quot;&gt;Excel&lt;br&gt;&lt;/a&gt;&lt;a href=&quot;https://7learn.com/programming/import-and-export-excel-and-csv-in-laravel&quot;&gt;راهنما&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/Maatwebsite/Laravel-Excel&quot;&gt;&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="460" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-48" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-45" target="UgfPbcDi_1TXwU8vHOSm-47" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-48" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-45" target="UgfPbcDi_1TXwU8vHOSm-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-45" value="&lt;a href=&quot;https://github.com/barryvdh/laravel-ide-helper&quot;&gt;IDE Helper&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-45" value="&lt;a href=&quot;https://github.com/barryvdh/laravel-ide-helper&quot;&gt;IDE Helper&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="230" y="560" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-47" target="UgfPbcDi_1TXwU8vHOSm-49" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-47" target="UgfPbcDi_1TXwU8vHOSm-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-47" value="&lt;a href=&quot;https://github.com/hekmatinasser/verta&quot;&gt;Verta&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-47" value="&lt;a href=&quot;https://github.com/hekmatinasser/verta&quot;&gt;Verta&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="370" y="560" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-49" target="UgfPbcDi_1TXwU8vHOSm-52" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-49" target="UgfPbcDi_1TXwU8vHOSm-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-49" value="&lt;a href=&quot;https://raygansms.com/blog/post/266/%D9%86%D9%85%D9%88%D9%86%D9%87-%DA%A9%D8%AF-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9-%D8%A8%D8%A7-laravel-(%D9%88%DB%8C%D8%AF%DB%8C%D9%88)&quot;&gt;پیامک&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-49" value="&lt;a href=&quot;https://raygansms.com/blog/post/266/%D9%86%D9%85%D9%88%D9%86%D9%87-%DA%A9%D8%AF-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9-%D8%A8%D8%A7-laravel-(%D9%88%DB%8C%D8%AF%DB%8C%D9%88)&quot;&gt;پیامک&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="370" y="660" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-52" target="UgfPbcDi_1TXwU8vHOSm-54" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-52" target="UgfPbcDi_1TXwU8vHOSm-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-52" value="&lt;a href=&quot;http://anetwork.github.io/validation/&quot;&gt;اعتبار سنجی ایرانی&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-52" value="&lt;a href=&quot;http://anetwork.github.io/validation/&quot;&gt;اعتبار سنجی ایرانی&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="230" y="660" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-54" target="UgfPbcDi_1TXwU8vHOSm-57" edge="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-54" target="UgfPbcDi_1TXwU8vHOSm-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-54" value="PDF Generator" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-54" value="PDF Generator" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="660" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-57" target="40ncCqBi6lyQ6E2bkOKu-3">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="UgfPbcDi_1TXwU8vHOSm-57" target="40ncCqBi6lyQ6E2bkOKu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UgfPbcDi_1TXwU8vHOSm-57" value="&lt;a href=&quot;https://github.com/yajra/laravel-datatables&quot;&gt;DataTables&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+        <mxCell id="UgfPbcDi_1TXwU8vHOSm-57" value="&lt;a href=&quot;https://github.com/yajra/laravel-datatables&quot;&gt;DataTables&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="760" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UgfPbcDi_1TXwU8vHOSm-21" value="&lt;div style=&quot;font-size: 23px;&quot;&gt;Packages&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.business;busType=function;dashed=1;dashPattern=1 4;sketch=1;fontFamily=Comic Sans MS;fontSize=23;strokeColor=#36393d;labelBorderColor=none;labelBackgroundColor=none;shadow=0;fillStyle=hachure;fillColor=#A9C4EB;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="215" y="357.5" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-0" target="40ncCqBi6lyQ6E2bkOKu-1">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-0" target="40ncCqBi6lyQ6E2bkOKu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-0" value="Template Package" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-0" value="Template Package" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="370" y="860" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-1" target="40ncCqBi6lyQ6E2bkOKu-8">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-1" target="40ncCqBi6lyQ6E2bkOKu-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-1" value="License Check" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-1" value="License Check" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="230" y="860" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-3" target="40ncCqBi6lyQ6E2bkOKu-5">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-3" target="40ncCqBi6lyQ6E2bkOKu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-3" value="DB Manager" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-3" value="DB Manager" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="230" y="760" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-5" target="40ncCqBi6lyQ6E2bkOKu-0">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-5" target="40ncCqBi6lyQ6E2bkOKu-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-5" value="&lt;div&gt;Local Backup&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-5" value="&lt;div&gt;Local Backup&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="370" y="760" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="40ncCqBi6lyQ6E2bkOKu-8" value="PWA" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+        <mxCell id="1KvW3bfhHPDv8e0FTgvC-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="pFpU_-K4jWt_jsYd8WtE-1" source="40ncCqBi6lyQ6E2bkOKu-8" target="1KvW3bfhHPDv8e0FTgvC-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40ncCqBi6lyQ6E2bkOKu-8" value="PWA" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
           <mxGeometry x="90" y="860" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="yBCattU03A_dBwwN4reb-3" value="User Log&lt;sub&gt;&lt;font face=&quot;Verdana&quot;&gt; &lt;/font&gt;&lt;/sub&gt;&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;&lt;sub&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Disable-enable&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="fillColor=#f5f5f5;whiteSpace=wrap;shape=cloud;html=1;strokeColor=#666666;fontSize=16;gradientColor=#b3b3b3;sketch=1;dashed=1;dashPattern=1 4;" parent="pFpU_-K4jWt_jsYd8WtE-1" vertex="1">
+          <mxGeometry x="215" y="185" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1KvW3bfhHPDv8e0FTgvC-0" value="&lt;a href=&quot;https://github.com/masoodvahid/persianalize&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;تبدیل کاراکترهای غیرفارسی&lt;/font&gt;&lt;/a&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate.application;appType=node;sketch=1;fontFamily=Comic Sans MS;fontSize=18;labelBorderColor=none;fillStyle=cross-hatch;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="pFpU_-K4jWt_jsYd8WtE-1">
+          <mxGeometry x="90" y="960" width="100" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
